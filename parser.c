@@ -8,7 +8,7 @@ void expr()
 {
     term();
 
-    while (nextToken == ADD_OP || nextToken == SUB_OP || nextToken ==) {
+    while (nextToken == ADD_OP || nextToken == SUB_OP) {
         lex();
         term();
     }
