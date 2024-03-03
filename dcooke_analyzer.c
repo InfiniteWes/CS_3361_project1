@@ -6,3 +6,6 @@
 #include <string.h>
 #include <ctype.h>
 
+int nextToken;
+
+

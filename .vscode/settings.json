@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "dcooke_anaylzer.h": "c"
     }
 }
