@@ -18,7 +18,7 @@
 #define RIGHT_PAREN 27
 #define ADD_OP 21
 #define SUB_OP 22
-#define MULTIPLY_OP 23
+#define MULT_OP 23
 #define DIV_OP 24
 #define MOD_OP 25
 #define INC_OP 34
